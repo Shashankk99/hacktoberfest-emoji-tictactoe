@@ -119,6 +119,6 @@ Originally started as a Hacktoberfest experiment, this project evolved into a de
 ## 🔗 Live Demo (Optional)
 
 If you enabled GitHub Pages:
-👉 [Play Now](https://shashankk99.github.io/hacktoberfest-crm/)
+👉 [Play Now](https://shashankk99.github.io/hacktoberfest-emoji-tictactoe/)
 
 ---
